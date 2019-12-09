@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Dec  9 18:55:45 2019
+# Process ID: 6584
+# Current directory: /home/roberto/Desktop/roberto/CLOCK_ALLARM1.0/CLOCK_ALLARM1.0.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/roberto/Desktop/roberto/CLOCK_ALLARM1.0/CLOCK_ALLARM1.0.sim/sim_1/behav/xsim/xsim.dir/TB_TOP_BLINK_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/roberto/Desktop/roberto/CLOCK_ALLARM1.0/CLOCK_ALLARM1.0.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/roberto/Desktop/roberto/CLOCK_ALLARM1.0/CLOCK_ALLARM1.0.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/roberto/Desktop/roberto/CLOCK_ALLARM1.0/CLOCK_ALLARM1.0.sim/sim_1/behav/xsim/xsim.dir/TB_TOP_BLINK_behav/webtalk/xsim_webtalk.tcl -notrace

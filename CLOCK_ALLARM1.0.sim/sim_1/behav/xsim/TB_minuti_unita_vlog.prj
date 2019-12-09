@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CAZZEGGIO.srcs/sources_1/new/minuti_unita.v" \
+"../../../../CAZZEGGIO.srcs/sim_1/new/TB_minuti_unita.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
